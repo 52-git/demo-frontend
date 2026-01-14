@@ -17,6 +17,3 @@
 - `layout/`: ヘッダー/メニュー/シェル。
 - `pages/`: 画面単位のコンポーネント。
 - `theme/`: トークン CSS。
-
-## 構成図
-![構成図](../../assets/frontend/flow.png)

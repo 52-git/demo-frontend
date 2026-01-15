@@ -1,7 +1,7 @@
 # unx-knowledge-ui
 
 ## 概要
-UNX ナレッジ検索/対話システムのフロントエンドです。React + Vite + Arco Design をベースに、Socket.IO ストリーミング回答、管理画面 CRUD、SSO ログインを提供します。
+UNX ナレッジ検索/対話システムのフロントエンドです。React + Vite + Arco Design をベースに、Socket.IO ストリーミング回答、管理画面 CRUD、SSOログインを提供します。
 
 ## 主要機能
 - チャット UI（Markdown 表示、参照表示、継続回答）。
